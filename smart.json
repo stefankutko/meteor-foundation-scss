@@ -1,0 +1,11 @@
+{
+  "name": "foundation-scss",
+  "description": "A wrapper for the full Zurb Foundation framework that includes both SCSS files and JavaScript.",
+  "homepage": "https://github.com/possibilities/meteor-cool-pkg",
+  "author": "Matthew Turney  (https://gplus.to/phoenixfire)",
+  "version": "0.1.0",
+  "git": "https://github.com/pho3nixf1re/meteor-foundation-scss.git",
+  "packages": {
+    "scss": "~0.5.11"
+  }
+}
